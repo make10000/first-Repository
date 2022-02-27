@@ -1,1 +1,2 @@
-# first-Repository
+# 第一个存储库
+小白刚开始使用
